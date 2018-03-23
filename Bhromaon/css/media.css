@@ -20,15 +20,6 @@
   .icons{
     display: none;
   }
-  /*
-  .icons ul{
-    width: 100%;
-    flex-wrap: wrap;
-    justify-content: center;
-  }
-  .icons li{
-    width: 100%;
-  }*/
   .icons-line{
     display: none;
   }
@@ -42,4 +33,9 @@
     width: 94%;
     align-items: center;
   }
+}
+@media (min-width: 1440px){
+  .choose_us img {
+    width: 70%;
+    margin: 1%;
 }
